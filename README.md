@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning | Java & Javascript<br>⚡ Fun fact | I like angels, cats & coding random stuff
+🌱 I’m currently learning | Full Java Stack <br>⚡ Fun fact | I like angels, cats & coding random stuff
 
 
 # 💻 Tech Stack:
